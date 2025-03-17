@@ -1,4 +1,4 @@
-checklist[] Readme interessante
+-checklist[] Readme interessante
  
 checklist[] Colocar Habilidades
   
