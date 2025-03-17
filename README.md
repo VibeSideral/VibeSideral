@@ -28,7 +28,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 --------
 
-<h3 align="center"> Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação!</h3>
+<h3 align="center"> ___Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação!___</h3>
 <br/>
 
 <div align="center">
