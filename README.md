@@ -1,8 +1,8 @@
-> [ ] Readme interessante
+[ ] Readme interessante
  
-  [ ] Colocar Habilidades
+[ ] Colocar Habilidades
   
-  [ ] Falar um pouco sobre mim 
+[ ] Falar um pouco sobre mim 
 
 
 
