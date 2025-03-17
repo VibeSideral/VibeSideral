@@ -1,8 +1,8 @@
-checklist [x] Readme interessante
+[x] Readme interessante
  
-checklist [ ] Colocar Habilidades
+[ ] Colocar Habilidades
   
-checklist [ ] Falar um pouco sobre mim 
+[ ] Falar um pouco sobre mim 
 
 
 
