@@ -4,12 +4,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 --------
 
-<h3 align="center"> Me chamo Victor, um jovem que ama a tecnologia que começou a se aventurar na área de programação!</h3>
-<br/>
-
-
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
+<h3 align="center"> Me chamo Victor, um jovem que ama a tecnologia que começou a se aventurar na área da programação!</h3>
 <br/>
 
 <div align="center">
