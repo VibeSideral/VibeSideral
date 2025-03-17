@@ -1,7 +1,7 @@
 -lista 
- -sublista [X] Readme interessante
- -sublista [ ] Colocar Habilidades
- -sublista [ ] Falar um pouco sobre mim 
+ sublista [X] Readme interessante
+ sublista [ ] Colocar Habilidades
+ sublista [ ] Falar um pouco sobre mim 
 
 
 
