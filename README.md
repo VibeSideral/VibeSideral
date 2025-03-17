@@ -1,4 +1,4 @@
-> [X] Readme interessante
+> [ ] Readme interessante
  
   [ ] Colocar Habilidades
   
