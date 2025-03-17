@@ -1,10 +1,9 @@
-!()[https://st2.depositphotos.com/5465744/7974/i/950/depositphotos_79743766-stock-photo-usa-flag-icon.jpg]
-[Español]()
+
+
 --------
    <img
 src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Bem+Vindo+ao+Meu+Hub+✨️;" />
 </h1>
-
 --------
 
 <h3 align="center"> Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação!</h3>
