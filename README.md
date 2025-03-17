@@ -1,18 +1,18 @@
-[] Readme interessante
+[ ] Readme interessante
  
-[] Colocar Habilidades
+[ ] Colocar Habilidades
   
-[] Falar um pouco sobre mim 
+[ ] Falar um pouco sobre mim 
 
-[] Colocar nova funcionalidade
+[ ] Colocar nova funcionalidade
 
-[] Ícone inglês e espanhol 
+[ ] Ícone inglês e espanhol 
 
-[] Criar link para o ícone 
+[ ] Criar link para o ícone 
 
-[] Status programador
+[ ] Status programador
 
-[] Colocar anel sonic e moeda
+[ ] Colocar anel sonic e moeda
 
 
 
