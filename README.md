@@ -4,7 +4,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 --------
 
-<h3 align="center">Sou Victor,um jovem que ama a tecnologia que começou a se aventurar na área de programação!</h3>
+<h3 align="center">Me chamo Victor,um jovem que ama a tecnologia que começou a se aventurar na área de programação!</h3>
 <br/>
 
 
