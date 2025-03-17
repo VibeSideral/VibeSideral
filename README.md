@@ -13,7 +13,7 @@
 - [ ] Cursos e certificados
 - [ ] Linguagens e projetos
 
-<align="center"/>
+</align="center">
 
 
 
