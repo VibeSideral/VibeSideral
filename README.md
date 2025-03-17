@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 ## Victor Corrêa
 
 Brotas-SP
@@ -45,7 +59,7 @@ FORMAÇÃO
     Dio, Brotas/sp GFT Start - Lógica de programação 
 
     Ainda estou aprendendo essa área, porém aprendi algumas partes já como o fluxograma, algoritmos, os conceitos básicos da lógica de programação, o versionamento do código Git e GitHub e até mesmo fiz 1 projeto Open Source
-
+-->
 
 <!--
 **VibeSideral/VibeSideral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
