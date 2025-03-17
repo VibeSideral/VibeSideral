@@ -6,6 +6,10 @@
 - [ ] Criar link para o ícone 
 - [ ] Status programador
 - [ ] Colocar anel sonic e moeda
+- [ ] Curiosidades
+- [ ] Redes Sociais
+- [ ] Cursos e certificados
+- [ ] Linguagens e projetos
 
 
 
