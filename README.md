@@ -1,4 +1,4 @@
-checklist [ ] Readme interessante
+checklist [x] Readme interessante
  
 checklist [ ] Colocar Habilidades
   
