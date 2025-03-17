@@ -1,18 +1,12 @@
 - [x] Readme interessante
- 
 - [ ] Colocar Habilidades
-  
 - [ ] Falar um pouco sobre mim 
-
 - [ ] Colocar nova funcionalidade
-
 - [ ] Ícone inglês e espanhol 
-
 - [ ] Criar link para o ícone 
-
 - [ ] Status programador
-
 - [ ] Colocar anel sonic e moeda
+
 
 
 
