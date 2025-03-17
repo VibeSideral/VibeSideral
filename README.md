@@ -33,7 +33,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🧠 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
