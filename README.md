@@ -1,18 +1,18 @@
-checklist Readme interessante
+- [ ] Readme interessante
  
-checklist [] Colocar Habilidades
+- [ ] Colocar Habilidades
   
-checklist [] Falar um pouco sobre mim 
+- [ ] Falar um pouco sobre mim 
 
-checklist [] Colocar nova funcionalidade
+- [ ] Colocar nova funcionalidade
 
-checklist [] Ícone inglês e espanhol 
+- [ ] Ícone inglês e espanhol 
 
-checklist [] Criar link para o ícone 
+- [ ] Criar link para o ícone 
 
-checklist [] Status programador
+- [ ] Status programador
 
-checklist [] Colocar anel sonic e moeda
+- [ ] Colocar anel sonic e moeda
 
 
 
