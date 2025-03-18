@@ -1,28 +1,8 @@
-## Obejtivos do meu readme
+<h2
 
-- [x] Readme interessante
-- [x] Colocar Habilidades
-- [x] Falar um pouco sobre mim 
-- [ ] Colocar nova funcionalidade
-- [ ] Ícone inglês e espanhol 
-- [x] Criar link para o ícone 
-- [x] Status programador
-- [ ] Colocar anel sonic e moeda
-- [ ] Curiosidades
-- [x] Redes Sociais
-- [x] Linguagens
-
-<h4 align="center"</h4>
-
-
-
---------
-
-  <h2
-
-<img
-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Bem+Vindo+ao+Meu+Hub+✨️;"/>
-  </h2>
+  <img
+     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Bem+Vindo+ao+Meu+Hub+✨️;"/>
+</h2>
 
 <h3 align="center"> Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação!
 
