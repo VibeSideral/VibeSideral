@@ -1,7 +1,12 @@
+<h3 align="center">
+
 - Versão em Espanhol Disponível 
 [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
+
 - Versão em Inglês Disponível **Em Desenvolvimento**
 [Aqui](   ) 🇺🇸.
+
+  </h3>
 
 <h2 
 
