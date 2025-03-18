@@ -61,7 +61,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 
-[![Victor Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut-vertical)]
+[!Victor Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut-vertical)
 
 ## Victor Corrêa
 
