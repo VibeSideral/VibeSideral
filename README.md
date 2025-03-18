@@ -38,6 +38,10 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 ----------
 
+
+<h3 align="center"> Conecte-se comigo 🌐</h3>
+<br/>
+
   <a href="mailto:vibesideral@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-696969?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
