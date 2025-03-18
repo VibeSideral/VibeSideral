@@ -1,4 +1,7 @@
-Assim que possível terá a opção de seleção de idiomas aqui nessa área !!
+- Versão em Espanhol Disponível 
+[Aqui](   ) 🇪🇸. **Em Desenvolvimento**
+- Versão em Inglês Disponível **Em Desenvolvimento**
+[Aqui](   ) 🇺🇸.
 
 <h2 
 
