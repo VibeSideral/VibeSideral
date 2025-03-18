@@ -30,7 +30,7 @@
   </a>
   <a
 href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
-    <img src="https://img.shields.io/badge/Youtube-FFFAFA?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Youtube-FFFAFA?style=for-the-badge&logo=Youtube&logoColor=red" target="_blank" />
   </a>
 
 ---------
