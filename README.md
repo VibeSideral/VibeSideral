@@ -16,7 +16,7 @@
 💻 **Aceito sugestões** para melhorar minhas habilidades !!
 
 🤓 Fato Curioso: **"O número 73 é o melhor numéro!"**
-
+<p>
 <h3 align="center"> Conecte-se comigo! 🌐</h3>
 
   <a href="mailto:vibesideral@gmail.com">
