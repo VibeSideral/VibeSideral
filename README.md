@@ -17,8 +17,6 @@
 
 🤓 Fato Curioso: **"O número 73 é o melhor numéro!"**
 
-----------
-
 
 <h3 align="center"> Conecte-se comigo! 🌐</h3>
 
