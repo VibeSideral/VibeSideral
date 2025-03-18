@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
   </a>
 href="https://www.instagram.com/vibesideral?igsh=b3g4bHU4azc1Yzc1">
+  <a
     <img src="https://img.shields.io/badge/Youtube-FFFAFA?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank" />
   </a>
 
