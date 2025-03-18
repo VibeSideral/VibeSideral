@@ -52,7 +52,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
 ![Legenda](i.makeagif.com/media/2-18-2023/vxSHs4.mp4)](url para a pagina)]
 
-![] (https://i.makeagif.com/media/2-18-2023/vxSHs4.mp4)
+![tails e sonic](https://i.makeagif.com/media/2-18-2023/vxSHs4.mp4)
 
 
 ---------
