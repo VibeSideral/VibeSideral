@@ -1,4 +1,4 @@
-<h6 align="center">
+<h4 align="center">
 
 - Versão em Espanhol Disponível 
 [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
@@ -6,7 +6,7 @@
 - Versão em Inglês Disponível **Em Desenvolvimento**
 [Aqui](   ) 🇺🇸.
 
-  </h6>
+  </h4>
 
 <h2 
 
