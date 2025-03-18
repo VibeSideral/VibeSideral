@@ -5,11 +5,11 @@
 - [ ] Falar um pouco sobre mim 
 - [ ] Colocar nova funcionalidade
 - [ ] Ícone inglês e espanhol 
-- [ ] Criar link para o ícone 
+- [x] Criar link para o ícone 
 - [ ] Status programador
 - [ ] Colocar anel sonic e moeda
 - [ ] Curiosidades
-- [ ] Redes Sociais
+- [x] Redes Sociais
 - [ ] Cursos e certificados
 - [x] Linguagens
 
@@ -54,7 +54,6 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 ---------
  
 <h2 align="center">⚒️ Habilidades ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git"/>
    
