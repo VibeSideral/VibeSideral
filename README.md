@@ -36,6 +36,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 🤓 Fato Curioso: **"O número 73 é o melhor numéro!"**
 
+----------
 
   <a href="mailto:vibesideral@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-696969?style=for-the-badge&logo=gmail&logoColor=red" />
