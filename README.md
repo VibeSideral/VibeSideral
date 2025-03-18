@@ -51,7 +51,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
 
-![](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F5hg26852yy971.gif%3Fwidth%3D404%26format%3Dmp4%26s%3D0923f473b66b4cd02937a9e117b6912fdde6d3af&rdt=51640)
+![] https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F5hg26852yy971.gif%3Fwidth%3D404%26format%3Dmp4%26s%3D0923f473b66b4cd02937a9e117b6912fdde6d3af&rdt=51640
 
 
 ---------
