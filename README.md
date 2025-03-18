@@ -65,3 +65,4 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut)](https://github.com/VibeSideral/VibeSideral)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral)]
