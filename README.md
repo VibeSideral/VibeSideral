@@ -53,6 +53,8 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
 ![Sonic e Tails FistBump](https://gifdb.com/images/high/sonic-mania-sonic-hedgehog-and-tails-cheers-sefrf1xgqbn1idaw.webp)&(https://github.com/VibeSideral/Certification)
 
+[![Sonic e Tails FistBump](https://gifdb.com/images/high/sonic-mania-sonic-hedgehog-and-tails-cheers-sefrf1xgqbn1idaw.webp)](https://github.com/VibeSideral/Certification)
+
 ---------
 
 <div align="center">
