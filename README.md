@@ -10,7 +10,6 @@
 - [ ] Colocar anel sonic e moeda
 - [ ] Curiosidades
 - [x] Redes Sociais
-- [ ] Cursos e certificados
 - [x] Linguagens
 
 <h4 align="center"</h4>
@@ -63,4 +62,4 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibesideral&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut&show_icons=true&theme=transparent)](https://github.com/VibeSideral/Vibesideral)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut&show_icons=true&theme=transparent)](https://github.com/VibeSideral)
