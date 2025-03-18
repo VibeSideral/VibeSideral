@@ -13,7 +13,7 @@
  
 👀 Estou trabalhando de **Freelancer em Manutenção de Computadores**
 
-💻 **Aceito sugestões** para melhorar minhas habilidades !!
+💬 **Aceito sugestões** para melhorar minhas habilidades !!
 
 🤓 Fato Curioso: **"O número 73 é o melhor numéro!"**
 
