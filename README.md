@@ -50,9 +50,6 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
- 
-![](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp)
-
 
 
 ---------
@@ -61,5 +58,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <a href='https://ko-fi.com/vibesideral' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
+
+![](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp)
 
 
