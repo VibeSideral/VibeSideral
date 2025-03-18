@@ -39,11 +39,12 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 💻 **Aceito sugestões** para melhorar minhas habilidades !!
 
-⚡ Fato Curioso **O número 73 é o melhor numéro**
+⚡ Fato Curioso **"O número 73 é o melhor numéro!"**
 
  </div>
- 
+
 <div align="center"> 
+
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
