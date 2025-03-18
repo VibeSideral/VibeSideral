@@ -39,7 +39,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 ----------
 
 
-<h3 align="center"> Conecte-se comigo 🌐</h3>
+<h3 align="center"> Conecte-se comigo! 🌐</h3>
 <br/>
 
   <a href="mailto:vibesideral@gmail.com">
