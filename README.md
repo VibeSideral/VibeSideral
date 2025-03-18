@@ -52,7 +52,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
 
 ![Legenda](tumblr_pmonycJnw21w1kerio1_54
-O.gifv)](url para a pagina)]
+O.gif)](url para a pagina)]
 
 ---------
 
