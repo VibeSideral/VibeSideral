@@ -51,6 +51,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
 **Formação Github Certification**
+![]()
 
 ---------
 
