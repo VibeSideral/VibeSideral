@@ -46,12 +46,8 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
   <a href="https://www.linkedin.com/in/victor-corr%C3%AAa-a87218341?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
- <hr/>
+---------
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -108,11 +104,6 @@ INFORMAÇÃO PESSOAL
   Nationality: 
   Driving License: 
   Hobbies: Gosto de jogar video games, ver séries e filmes do MCU, DC, animações e outros. Além disso gosto de tirar fotos de paisagens e até mesmo editar essas fotos no tempo livre. Além de ter um amor em fazer manutenções em computadores, formatações 
-
-PERFIS SOCIAIS
-  * Instagram: https://www.instagram.com/vibesideral?igsh=b3g4bHU4azc1Yzc1
-  * GitHub: https://github.com/VibeSideral
-  * Linkedin: https://www.linkedin.com/in/victor-corr%C3%AAa-a87218341?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app
 
 IDIOMAS
   ★★★★☆ Português 
