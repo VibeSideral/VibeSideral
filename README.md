@@ -33,14 +33,13 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 <div align="center">
  
- 🧠 I’m currently working on **a marketplace**
+🧠 Atualmente estou **Aprendendo Git e Github**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+👀 Estou trabalhando de **Freelancer em Manutenção de Computadores**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💻 Aceito sugestões para melhorar minhas habilidades !!
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
+⚡ Fato Curioso **O número 73 é o melhor numéro**
  </div>
  
 <div align="center"> 
