@@ -2,11 +2,11 @@
 
 - [x] Readme interessante
 - [x] Colocar Habilidades
-- [ ] Falar um pouco sobre mim 
+- [x] Falar um pouco sobre mim 
 - [ ] Colocar nova funcionalidade
 - [ ] Ícone inglês e espanhol 
 - [x] Criar link para o ícone 
-- [ ] Status programador
+- [x] Status programador
 - [ ] Colocar anel sonic e moeda
 - [ ] Curiosidades
 - [x] Redes Sociais
