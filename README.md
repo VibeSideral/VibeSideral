@@ -50,7 +50,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
-![Legenda](url da img)](url para a pagina)]
+![Legenda](https://64.media.tumblr.com/a7acb3b51fe1bd3e5b5d81e77a53ad46/bdd98952ac0774b1-d9/s1280x1920/df3868065c0f790d27a9da61d47d030d3a73dc2c.gifv)](url para a pagina)]
 
 
 
