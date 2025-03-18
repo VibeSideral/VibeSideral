@@ -51,7 +51,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
 
-![Legenda](https://pa1.aminoapps.com/6889/f1f098059f6cfca349815bf5e15af2580cf8d0cer1-200-200_hq.gif)](url para a pagina)]
+![Legenda](https://images.app.goo.gl/KXownVcoDHSpq1x49)](url para a pagina)]
 
 ---------
 
