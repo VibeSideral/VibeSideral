@@ -61,5 +61,5 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibesideral&show_icons=true&theme=transparent)
 
