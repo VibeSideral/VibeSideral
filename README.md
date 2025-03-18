@@ -51,8 +51,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
 
-![Legenda](tumblr_pmonycJnw21w1kerio1_54
-O.gif)](url para a pagina)]
+![Legenda](https://64.media.tumblr.com/8c40df344c137ffffa10dba509266751/tumblr_pmonycJnw21w1kerio1_540.gifv)](url para a pagina)]
 
 ---------
 
