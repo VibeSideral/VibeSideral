@@ -4,9 +4,9 @@
      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Bem+Vindo+ao+Meu+Hub+✨️;"/>
 </h2>
 
-<h3 align="center"> Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação!</h3>
-<br/>
+  <h3 align="center"> Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação! </h3>
 
+<br/>
 <div align="center">
  
 🧠 Atualmente estou **Aprendendo Git e Github**
@@ -17,7 +17,7 @@
 
 🤓 Fato Curioso: **"O número 73 é o melhor numéro!"**
 
-<h3 align="center"> Conecte-se comigo! 🌐</h3>
+  <h3 align="center"> Conecte-se comigo! 🌐 </h3>
 
   <a href="mailto:vibesideral@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-696969?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git"/>
    
------------
+---------
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 
@@ -43,4 +43,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut&show_icons=true&theme=transparent)](https://github.com/VibeSideral)
 
-https://ko-fi.com/vibesideral
+---------
+
+<div align="center">
+<a href='https://ko-fi.com/vibesideral' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
