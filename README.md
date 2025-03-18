@@ -51,7 +51,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
  
-![]https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp
+![](https://play.google.com/store/apps/details?id=com.riffsy.FBMGIFApp)
 
 
 
