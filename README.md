@@ -63,4 +63,4 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibesideral&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut)](https://github.com/VibeSideral/VibeSideral)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vibesideral&layout=donut)](https://github.com/VibeSideral/Vibesideral&show_icons=true&theme=transparent)
