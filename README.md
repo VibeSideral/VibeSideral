@@ -51,7 +51,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 <h2 align="center">⚡ Cursos e Certificações ⚡</h2
 
 
-![Legenda](https://media.gifdb.com/sonic-mania-sonic-hedgehog-and-tails-cheers-sefrf1xgqbn1idaw.gif)](url para a pagina)]
+![Legenda](media.gifdb.com/sonic-mania-sonic-hedgehog-and-tails-cheers-sefrf1xgqbn1idaw.gif)](url para a pagina)]
 
 ---------
 
