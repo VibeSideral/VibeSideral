@@ -49,10 +49,10 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 ---------
  
-<h2 align="center">⚒️ Linguagens de programação ⚒️</h2>
+<h2 align="center">⚒️ Habilidades ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,,git"/>
+    <img src="https://skillicons.dev/icons?i=github,git"/>
    
 -----------
 
