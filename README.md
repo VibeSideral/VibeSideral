@@ -3,8 +3,7 @@
 - Versão em Espanhol Disponível 
 [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
 
-- Versão em Inglês Disponível **Em Desenvolvimento**
-[Aqui](   ) 🇺🇸.
+- Versão em Inglês Disponível [Aqui](   ) 🇺🇸.**Em Desenvolvimento**
 
   </h4>
 
