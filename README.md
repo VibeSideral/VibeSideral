@@ -2,7 +2,7 @@
 
 - Versão em Espanhol Disponível [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
 
-- Versão em Inglês Disponível [Aqui](   ) 🇺🇸.**Em Desenvolvimento**
+- Versão em Inglês Disponível [Aqui](   ) 🇺🇸. **Em Desenvolvimento**
 
   </h4>
 
@@ -80,7 +80,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
  ### **Toque no Gif** 👇🏻
 
-[![Sonic e Tails FistBump](https://gifdb.com/images/high/sonic-mania-sonic-hedgehog-and-tails-cheers-sefrf1xgqbn1idaw.webp)](https://github.com/VibeSideral/Certification)
+[![Sonic e Tails FistBump](https://c.tenor.com/eGYq7O1o3goAAAAd/tenor.gif)](https://github.com/VibeSideral/Certification)
 
 <div align="center">
 <a href='https://ko-fi.com/vibesideral' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
