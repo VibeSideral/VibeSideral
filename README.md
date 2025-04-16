@@ -25,7 +25,7 @@ Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da progr
 
 <div align="center">
  
-  🧠 Atualmente estou **Logica de programacao e JavaScript**
+  🧠 Atualmente estou **JavaScript**
  
   👀 Estou trabalhando de **Freelancer em Manutenção de Computadores**
 
