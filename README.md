@@ -65,14 +65,6 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
    
 ---------
 
-<h2 align="center">
-📊 Estatísticas 📊
-   </h2>
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VibeSideral&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VibeSideral&layout=donut&show_icons=true&theme=transparent)](https://github.com/VibeSideral)
-
 
 <h2 align="center">
 ⚡Cursos e Certificações ⚡
