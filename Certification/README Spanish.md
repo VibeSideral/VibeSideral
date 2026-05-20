@@ -1,8 +1,8 @@
 <h4 align="center">
 
-- Versão em Espanhol Disponível [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
+- Versión en portugués disponible [aquí](https://github.com/VibeSideral/VibeSideral/blob/main/Certification/README.md) 🇧🇷 
 
-- Versão em Inglês Disponível [Aqui](   ) 🇺🇸. **Em Desenvolvimento**
+- Versión en inglés disponible [aquí](https://github.com/VibeSideral/VibeSideral/blob/main/Certification/README%20English.md) 🇺🇸
 
   </h4>
 
@@ -11,7 +11,7 @@
 <h2
 <h3 align="center">
   <img
-     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem+Vindo!+📖;+Veja+Minhas+Certificações+✨️;"/>
+     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Bienvenido!+📖;+Vea+Mis+Certificaciones+✨️;"/>
 </h2>
  <br/l>
 
@@ -21,6 +21,6 @@
 
 ------
 
-<h2> Certificações e curiosidades Clique Aqui !! </h2>
+<h2> Certificaciones !! </h2>
 
 []()

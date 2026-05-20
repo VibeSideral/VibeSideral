@@ -1,8 +1,8 @@
 <h4 align="center">
 
-- Versão em Espanhol Disponível [Aqui](   ) 🇪🇸 **Em Desenvolvimento**
+- Versão em Espanhol [Aqui](https://github.com/VibeSideral/VibeSideral/blob/main/Certification/README%20Spanish.md) 🇪🇸
 
-- Versão em Inglês Disponível [Aqui](   ) 🇺🇸 **Em Desenvolvimento**
+- Versão em Inglês [Aqui](https://github.com/VibeSideral/VibeSideral/blob/main/Certification/README%20English.md) 🇺🇸
 
   </h4>
 
@@ -21,6 +21,6 @@
 
 ------
 
-<h2> Certificações e curiosidades Clique Aqui !! </h2>
+<h2> Certificações !! </h2>
 
 []()
