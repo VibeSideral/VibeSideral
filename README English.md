@@ -1,8 +1,8 @@
 <h4 align="center"> 
 
-- Version in Spanish [Here](https://github.com/VibeSideral/VibeSideral/blob/main/README%20Spanish.md) 🇪🇸
+- Version in Spanish available [Here](https://github.com/VibeSideral/VibeSideral/blob/main/README%20Spanish.md) 🇪🇸
 
-- Version in Portuguese [Here](https://github.com/VibeSideral/VibeSideral/blob/main/README.md) 🇧🇷
+- Version in Portuguese available [Here](https://github.com/VibeSideral/VibeSideral/blob/main/README.md) 🇧🇷
   </h4>
 
 --------
