@@ -1,8 +1,8 @@
 <h4 align="center"> 
 
-- Versão em  Disponível [Aqui](https://github.com/VibeSideral/VibeSideral/blob/main/README%20English.md) 🇺🇸
+- Versión en inglés disponible [Aqui](https://github.com/VibeSideral/VibeSideral/blob/main/README%20English.md) 🇺🇸
 
-- Versão em português Disponível [Aqui](https://github.com/VibeSideral/VibeSideral/blob/main/README.md) 🇧🇷
+- Versión en portugués disponible [Aqui](https://github.com/VibeSideral/VibeSideral/blob/main/README.md) 🇧🇷
 
   </h4>
 
@@ -18,23 +18,23 @@ src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true
 
 <h3 align="center"> 
 
-Me chamo Victor, eu amo a tecnologia e começei a me aventurar na área da programação! 
+Me llamo Víctor, me apasiona la tecnología y ¡he empezado a adentrarme en el mundo de la programación!
   </h3>
 
 <br/>
 
 <div align="center">
  
-  🧠 Atualmente estou **JavaScript**
+  🧠 Actualmente estoy **JavaScript**
  
-  👀 Estou trabalhando de **Freelancer em Manutenção de Computadores**
+  👀 Trabajo como **técnico autónomo de mantenimiento informático**.
 
-  💬 **Aceito sugestões** para melhorar minhas habilidades !!
+  💬 ¡Agradezco las sugerencias para mejorar mis habilidades!
 
-  🤓 Fato Curioso: **"O número 73 é o melhor numéro!"**
+  🤓 Dato interesante: **"¡El número 73 es el mejor número!"**
 
 <h3 align="center"> 
-  Conecte-se comigo! 🌐 
+  ¡Conéctate conmigo!🌐 
    </h3>
 
 <a href="mailto:vibesideral@gmail.com">
@@ -67,12 +67,12 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
 
 <h2 align="center">
-⚡Cursos e Certificações⚡
+⚡Cursos y certificaciones⚡
    </h2
 
 <div align="center">
 
- ### **Toque no Gif** 👇🏻
+ ### **Toca el GIF** 👇🏻
 
 [![Sonic e Tails FistBump](https://c.tenor.com/eGYq7O1o3goAAAAd/tenor.gif)](https://github.com/VibeSideral/VibeSideral/tree/main/Certification)
 
