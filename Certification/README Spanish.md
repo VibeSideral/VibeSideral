@@ -1,8 +1,8 @@
 <h4 align="center">
 
-- Versão em Espanhol Disponível [Aqui](   ) 🇪🇸 **Em Desenvolvimento**
+- Versão em Espanhol Disponível [Aqui](   ) 🇪🇸. **Em Desenvolvimento**
 
-- Versão em Inglês Disponível [Aqui](   ) 🇺🇸 **Em Desenvolvimento**
+- Versão em Inglês Disponível [Aqui](   ) 🇺🇸. **Em Desenvolvimento**
 
   </h4>
 
@@ -21,9 +21,6 @@
 
 ------
 
-<h2> align="center"> 
-Certificações e curiosidades Clique Aqui !! 
-
-</h2>
+<h2> Certificações e curiosidades Clique Aqui !! </h2>
 
 []()
