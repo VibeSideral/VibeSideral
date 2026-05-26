@@ -60,7 +60,7 @@ href="https://youtube.com/@vibesideral?si=m8MRY_K9hU1TPcW2">
 
    </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git"/>
+    <img src="https://skillicons.dev/icons?i=github,git,javascript"/>
    
 ---------
 
